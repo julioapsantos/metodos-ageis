@@ -1,0 +1,9 @@
+.cabeçalho{
+    background-color: brown;
+    border: solid 1px black;
+    height: 20px;
+    text-align: center;
+    text-decoration: black;
+
+    padding-top: 60px;
+}
