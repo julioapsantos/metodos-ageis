@@ -1,18 +1,17 @@
-body{
+html, body{
+    height: 100%;
     background-color: rgba(138, 54, 54, 0.479);
 }
 .cabeçalho{
     background-color: rgb(15, 211, 103);
-    border: solid 1px black;
+    border: solid 1px rgb(240, 5, 5);
     height: 20px;
     width: 100%;
     text-align: center;
     text-decoration: black;
     padding-top: 60px;
-    
-    
-
 }
+
 .titulo{
     position: relative;
     top: -80px;
@@ -27,12 +26,19 @@ body{
     outline: 2px solid #0056b3;
     outline-offset: 2px;
  
-  }
-.rodapé{
-
-}
+  } 
 .alinhamento{
     display: inline-flex;
     position: relative;
     top: -80px;
+}
+.p31{
+background-color: rgb(216, 231, 9);
+}
+table{
+    width: 100%;
+    background-color: aqua;
+}
+article{
+    background-color: slateblue;
 }
